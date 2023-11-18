@@ -13,7 +13,7 @@ Some images have been taken from official genshin impact wiki at https://genshin
 The bot currently supports the following commands (all of which require g! as a prefix):
 
 help <br>
-wish <br>
+wish (or w) <br>
 info<br>
 shop (or s)<br>
 give<br>
