@@ -26,6 +26,7 @@ weekly<br>
 monthly<br>
 use<br>
 equip<br>
+unequip<br>
 destruct (or d)<br>
 highscores<br>
 ascend<br>
