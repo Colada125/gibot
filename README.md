@@ -18,7 +18,7 @@ info<br>
 shop (or s)<br>
 give<br>
 battle (or b)<br>
-arena (or a)<br>
+arena<br>
 inventory (or inv)<br>
 market<br>
 daily<br>
